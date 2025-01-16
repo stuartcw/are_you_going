@@ -34,9 +34,6 @@ plugins:
   - jekyll-feed              # RSS feed generator
   - jekyll-seo-tag           # Adds SEO tags to the site
 
-# Theme
-theme: minima                # The default theme provided by GitHub Pages
-
 # Exclusions
 exclude:
   - node_modules             # Ignore node_modules directory
