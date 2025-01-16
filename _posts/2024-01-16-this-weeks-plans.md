@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Friday 17th January 2024
+title: "Friday 17th January 2024"
 categories: Friday, plans 
 ---
 
