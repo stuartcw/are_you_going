@@ -8,6 +8,9 @@ author:
 description: >
   This is where I publish my plans.
 
+url: "https://are-you-going-tonight.stuartwoodward.com"  # Replace with your custom domain
+baseurl: ""                          # Leave empty unless you are serving the site from a subdirectory
+
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
