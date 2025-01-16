@@ -1,0 +1,60 @@
+# Site Settings
+title: Are you going...      # The title of your site
+description: What's the plan # A short description for your site
+url: https://stuartcw.github.io/are_you_going/  # Your site URL
+baseurl: ""                  # Leave empty for the root of your repository
+author: Stuart Woodward      # Author name
+
+# Build Settings
+safe: true                   # Required for GitHub Pages
+lsi: false                   # Disable Latent Semantic Indexing (not supported by GitHub Pages)
+incremental: false           # Disable incremental builds (not supported by GitHub Pages)
+source: ./                   # Specify the root directory for your Jekyll site
+destination: ./_site         # Directory for the built site
+
+# Markdown Processor (Kramdown) Settings
+markdown: kramdown           # Use Kramdown as the Markdown processor
+kramdown:
+  input: GFM                 # GitHub Flavored Markdown
+  math_engine: mathjax       # Use MathJax for rendering math
+  syntax_highlighter: rouge  # Syntax highlighting for code blocks
+
+# Syntax Highlighter
+highlighter: rouge           # Use Rouge for syntax highlighting
+
+# GitHub Gist Settings
+gist:
+  noscript: false            # Include a noscript fallback for Gists
+
+# Permalinks
+permalink: pretty            # Pretty URLs (e.g., /about/ instead of /about.html)
+
+# Plugins (only whitelisted plugins work with GitHub Pages)
+plugins:
+  - jekyll-feed              # RSS feed generator
+  - jekyll-seo-tag           # Adds SEO tags to the site
+
+# Theme
+theme: minima                # The default theme provided by GitHub Pages
+
+# Exclusions
+exclude:
+  - node_modules             # Ignore node_modules directory
+  - vendor                   # Ignore vendor directory
+
+# Include (optional)
+include:
+  - README.md                # Include additional files in the build
+
+# Defaults for Posts
+defaults:
+  - scope:
+      path: ""               # Applies to all files
+      type: posts            # Only for posts
+    values:
+      layout: post           # Default layout for posts
+      comments: true         # Enable comments by default
+
+# Pagination (optional)
+paginate: 5                  # Posts per page
+paginate_path: "/page:num/"  # Pagination URL format
