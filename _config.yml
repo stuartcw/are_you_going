@@ -1,9 +1,9 @@
 # Site Settings
 title: Are you going...      # The title of your site
-description: A simple site   # A short description for your site
+description: What's the plan # A short description for your site
 url: https://stuartcw.github.io/are_you_going/  # Your site URL
 baseurl: ""                  # Leave empty for the root of your repository
-author: Your Name            # Author name
+author: Stuart Woodward      # Author name
 
 # Build Settings
 safe: true                   # Required for GitHub Pages
