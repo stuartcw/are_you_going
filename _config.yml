@@ -1,7 +1,7 @@
 # Site Settings
 title: Are you going...      # The title of your site
 description: What's the plan # A short description for your site
-url: https://stuartcw.github.io/are_you_going/  # Your site URL
+url: https://stuartcw.github.io/are_you_going  # Your site URL
 baseurl: ""                  # Leave empty for the root of your repository
 author: Stuart Woodward      # Author name
 
