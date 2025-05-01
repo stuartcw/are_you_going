@@ -12,38 +12,50 @@ layout: home
 
 Almost ten years ago I was accepting random invitations to go out each week and it became too much. I joined a group of people who went out twice a week and so I direct people who want to meet to join me on a Tuesday or Friday at the regular places.
 
+I usually go the Tsuruyacho HUB from 18:30~21:00 on Tuesdays and Fridays. This is the prefered place and time to meet. 
+
+### Going to a second place after 9PM.
+
+On Tuesdays, after that, mostly will go home or to another place. On Fridays, I will go to Noge. Recently, Tuesdays after 9PM has also become a bit too much. I can't justify staying out until the last train on a regular basis. 
+
 ### Q1.1. Will you be going tonight?
-**A.** I will be there on **Tuesdays** and **Fridays**, regardless of whether anyone else goes or not. *If I can’t make it on a Tuesday or a Friday, I will let you know.*
+**A.** I go out to the Tsuruyacho HUB on **Tuesdays** and **Fridays**, *regardless of whether anyone else goes or not*. **If I can’t make it on a Tuesday or a Friday, I will let you know.**
 
 Exceptions:  
 * 1.1.1 There is a government advisory due to natural disaster or pandemic in place.
-* 1.1.2 There is a football match on that day when I will be at the stadium if it is a home match or at the HUB that is showing it. This overrides all other rules.
-* 1.1.3 Inclement weather.  
+* 1.1.2 If There is a Yokohama F. Marinos Home Match on that day when I will be at the stadium or at the Richmod HUB if it is an Away Match This overrides all other rules.You are welcome to join but primarily be watching the match. Facetious comments and questions may be ignored.  
+* 1.1.3 Inclement weather. If it is Typhoon or other really bad weather, I probably won't go.
+* 1.1.4 Bad mood. If I’m in a bad mood, I might not go.
 
-### Q1.2. Are you interested in going somewhere else?
+### Q1.2. Are you interested in going somewhere else? Like a different bar?
 **A.** Probably not.
 
 ### Q1.3. Are you interested in going on another night?
-**A.** If we change Tuesday back to Wednesday, I’ll try and be there. Otherwise, no.
+**A.** If the Tuesday night HUB groups changes Tuesday back to Wednesday, I’ll try and be there on Wednesdays. Otherwise, no.
 
 ### Q1.4. How about tonight?
-**A.** See Q1. Is it Tuesday or Friday? No. Otherwise, I would end up going out every night.
+**A.** See Q1. Is it Tuesday or Friday? No. Otherwise, I would end up going out every night. 
+Exceptions:
+* 1.4.1 If you will pay my return taxi fare then I will consider it. 
 
 ### Q1.5. “But John is going tonight…”
-**A.** Yes, maybe I'll go, if it is his last week.
+**A.** Yes, well, maybe I'll go, if it is his last week and won't be there for a while.
 
 ### Q1.6. What time will you be there?
 **A.** It takes about an hour to get there and I usually leave around 17:45. So, hopefully, I should be there before 19:00.
 
-### Q1.7. What time will you leave?
-**A.** 9PM.
+### Q1.7. What time will you leave the HUB on Tuesdays and Fridays?
+**A.** Usually at 9PM. Unless I was tricked into drinking another drink after 8:30PM. I'll go when I finish it.
+Exceptions.
+* 1.7.1 If I'm having a really good time. I may just stay but this is pretty rare.
+* 1.7.2 If there is football match that continues after 9PM and I'm watching it I will stay to the end.
 
 ## Questions Related Other Days
 
 ### Q1.8. Are you going out on Saturday Night?
 **A.** No. The only exception being if it is a football night. See Football Match Related Questions.
 
-## 2. Football Match Related Questions
+## 2. Post Football Match Related Questions
 
-### 2.1 Will you go to the Shin-Yokohama HUB after the match.
-**A.** Yes. They kindly reserve a table for me so by default I will go there. If there is a change for any reason I will announce it.
+### 2.1 Will you go to the Shin-Yokohama HUB after the match?
+**A.** Yes, if the match is at Nissan Stadium. They kindly reserve a table for me so by default I will go there. If there is a change for any reason I will announce it.
