@@ -46,6 +46,7 @@ Exceptions:
 
 ### Q1.7. What time will you leave the HUB on Tuesdays and Fridays?
 **A.** Usually at 9PM. Unless I was tricked into drinking another drink after 8:30PM. I'll go when I finish it.
+
 Exceptions.
 * 1.7.1 If I'm having a really good time. I may just stay but this is pretty rare.
 * 1.7.2 If there is football match that continues after 9PM and I'm watching it I will stay to the end.
