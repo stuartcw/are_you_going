@@ -27,7 +27,7 @@ Exceptions:
 * 1.1.3 Inclement weather. If it is Typhoon or other really bad weather, I probably won't go.
 * 1.1.4 Bad mood. If I’m in a bad mood, I might not go.
 * 1.1.5 If there is a Japan National Team match, I may consider going. You are welcome to join but primarily be watching the match. Facetious comments and questions may be ignored.  
-* 1.1.3 Inclement weather. If it is Typhoon or other really bad weather, I probably won't go.
+
 
 ### Q1.2. [Are you interested in going somewhere else? Like a different bar?](#different_bar)
 **A.** Probably not.
